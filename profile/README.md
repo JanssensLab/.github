@@ -28,7 +28,7 @@ Nature Immunology, 15, 910-919, 2014.
 Trends Cancer 3, 491-505, 2017.
 
 ### New publications
-Each new publication from the lab, which includes bioinformatic analyses, will have its scripts uploaded to its own repository on this GitHub.
+Each new publication from the lab, which includes bioinformatics, will have its scripts uploaded to its own repository on this GitHub.
 
 
 Group leader: Prof. Dr. Sophie Janssens <br />
