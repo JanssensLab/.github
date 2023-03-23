@@ -27,10 +27,14 @@ Nature Immunology, 15, 910-919, 2014.
 - Vanacker, H., et al. Emerging Role of the Unfolded Protein Response in Tumor Immunosurveillance. 
 Trends Cancer 3, 491-505, 2017.
 
+### New publications
+Each new publication from the lab, which includes bioinformatic analyses, will have its scripts uploaded to its own repository on this GitHub.
+
 
 Group leader: Prof. Dr. Sophie Janssens <br />
 Tel:+32 9 33 13730 - Fax: +32 9 221 76 73 <br />
 Email: Sophie.Janssens@irc.vib-ugent.be
+
 
 <!--
 
