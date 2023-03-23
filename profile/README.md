@@ -32,7 +32,7 @@ Each new publication from the lab, which includes bioinformatics, will have its 
 
 
 Group leader: Prof. Dr. Sophie Janssens <br />
-Tel:+32 9 33 13730 - Fax: +32 9 221 76 73 <br />
+Tel: +32 9 33 13730 - Fax: +32 9 221 76 73 <br />
 Email: Sophie.Janssens@irc.vib-ugent.be
 
 
