@@ -28,8 +28,8 @@ Nature Immunology, 15, 910-919, 2014.
 Trends Cancer 3, 491-505, 2017.
 
 
-Group leader: Prof. Dr. Sophie Janssens
-Tel:+32 9 33 13730 - Fax: +32 9 221 76 73
+Group leader: Prof. Dr. Sophie Janssens <br />
+Tel:+32 9 33 13730 - Fax: +32 9 221 76 73 <br />
 Email: Sophie.Janssens@irc.vib-ugent.be
 
 <!--
